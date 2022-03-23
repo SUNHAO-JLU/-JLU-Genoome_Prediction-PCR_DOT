@@ -1,1 +1,1 @@
-# JLU-Genoome_Prediction-PCR_DOT
+# Genoome_Prediction-PCR_DOT

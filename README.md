@@ -1,7 +1,7 @@
 # Genome_Prediction-PCR_DOT
 
 Usage:
-  R code:
+R code:
   
   # Reference data 
   source("PCR_HAT_dot_return_model.r")

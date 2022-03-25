@@ -1,6 +1,5 @@
 # Genome_Prediction-PCR_DOT
 We developed a method PCR-DOT to perform principal components regression based on the dot product theory. We compared the predictive ability of different approaches based on the simulated and real genomic data, and in general, the prediction ability of PCR-dot was better than the previous PCR-eigen and PCR-SS methods.
-
 # Usage: R code:
 # Reference data 
 source("PCR_HAT_dot_return_model.r")

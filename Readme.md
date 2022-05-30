@@ -20,7 +20,7 @@ $$
 P=XV=U\sqrt D
 $$
 
-###### Usage: PCR-DOT
+###### Usage: PC-DOT
 
 ```R
 # PCR model
